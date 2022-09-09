@@ -1,8 +1,9 @@
-# Pavel Nikonorov
+## Pavel Nikonorov
+
 ***
-### Frontend Developer
+### **Frontend Developer**
 ***
-#### Contacts:
+### Contacts:
 - **Phone:** +7-(995)-502-94-00
 - **Email:** pav.n95@gmail.com
 - **Telegram**: @Pav_nk
@@ -10,16 +11,20 @@
 - **LinkedIn**:  [pavel-nk](https://www.linkedin.com/in/pavel-nk/)
 - **Codewars**:  [Pavel-nk95](https://www.codewars.com/users/Pavel-nk95)
 - **Location:** Moscow, Russia
+
 ***
-#### Briefly about me:
+
+### Briefly about me:
 In the past, he worked as a design engineer of low-current systems.
 I have always paid special attention to structuring information and automating work processes.
 At the previous place of work, I faced the tasks of writing scripts for a video surveillance system SecurOS, realized that I like writing code more and decided to change the field of activity.
 I chose the direction of frontend development because of the desire to learn how to develop interfaces and the ability to instantly see the result of my work.
 
-Goal: to get an offer for the position of "Frontend developer"
+Goal: to get an offer for the position of Frontend developer.
+
 ***
-#### Work experience:
+
+### Work experience:
 During my studies, I have implemented 3 educational projects:
 
 1. [Brain games](https://github.com/Pavel-nk95/brain-games) - 5 math games in the console with a single engine that allows you to easily add new games if necessary.
@@ -49,8 +54,10 @@ During the implementation of the project, I acquired work skills:
 - with packages Yup, i18next, onChange;
 - with the Webpack project assembly system;
 - with a deployment using Vercel.
+
 ***
-#### Skills:
+
+### Skills:
 - layout: HTML, CSS, SASS, PUG, Bootstrap;
 - native JavaScript, Node.js & DOM API;
 - work with the Git version control system, automation of processes through Github Actions;
@@ -60,8 +67,10 @@ During the implementation of the project, I acquired work skills:
 - Testing and debugging: Jest;
 - build projects: Gulp, Webpack;
 - basic skills of working in the Linux operating system.
+
 ***
-#### Code example:
+
+### Code example:
 ```
 function narcissistic(value) {
   const degree = String(value).length;
@@ -70,14 +79,20 @@ function narcissistic(value) {
   return value === result;
 }
 ```
+
 ***
-#### Education:
+
+### Education:
 - Moscow State University of Instrument Engineering and Computer Science, Engineer, 2013
+
 ***
-#### Сourses:
+
+### Сourses:
 - Frontend developer, [Hexlet](https://ru.hexlet.io/) *(in process)*;
 - JS / Front-end,  [RS School](https://rs.school/) *(in process)*
+
 ***
-#### Languages:
+
+### Languages:
 - Russian - "Native"
 - English - "Pre-Intermediate"
