@@ -7,7 +7,7 @@
 - **Phone:** +7-(995)-502-94-00
 - **Email:** pav.n95@gmail.com
 - **Telegram**: @Pav_nk
-- **Discord**: Pavel-nk95#8701
+- **Discord**: Pav_nk#8701
 - **LinkedIn**:  [pavel-nk](https://www.linkedin.com/in/pavel-nk/)
 - **Codewars**:  [Pavel-nk95](https://www.codewars.com/users/Pavel-nk95)
 - **Location:** Moscow, Russia
@@ -34,7 +34,7 @@ During the implementation of the project, I acquired work skills:
 - with environment settings: Node.js , REPL, ESLint;
 - with the command line;
 - with Git and GitHub;
-- with npm: installing dependencies and publishing the package.
+- with npm: installing dependencies and publishing the package;
 - with workflow setup for action on github.
 
 2. [Difference Generator](https://github.com/Pavel-nk95/difference-generator) - is a console application that compares 2 configuration files and displays the differences between them.
@@ -64,7 +64,7 @@ During the implementation of the project, I acquired work skills:
 - understanding the principles object-oriented programming in JavaScript and the principles of building a good architecture;
 - understanding the principles of REST, interaction with the REST API;
 - working with React library (React Hooks + Redux ), Lodash, React Bootstrap UI Components, Formik, Yup, I18next;
-- Testing and debugging: Jest;
+- testing and debugging: Jest;
 - build projects: Gulp, Webpack;
 - basic skills of working in the Linux operating system.
 
