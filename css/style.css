@@ -143,10 +143,6 @@ code {
 
 }
 
-.contacts-item .contacts-link-phone::before {
-  background: url("../assets/img/phone.svg");
-}
-
 .contacts-item .contacts-link-telegram::before {
   background: url("../assets/img/telegram.svg");
 }
